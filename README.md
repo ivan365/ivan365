@@ -45,13 +45,6 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan365&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan365&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Как со мной связаться
 - 🔗 **Pastebin:** [https://pastebin.com/u/LuaPacyk](https://pastebin.com/u/LuaPacyk)
 - ✉️ Email: vania.gnedash@gmail.com
