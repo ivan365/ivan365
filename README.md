@@ -1,50 +1,42 @@
-# 👋 Здаров, я — Ivan365 aka LuaPacyuk
+# 👋 Привет
 
-Пишу и по совместительсву изучаю **C**, **Lua**, **Python**, **LaTeX**, **HTML**, **CSS** и **Arduino C**
-Часто работаю с низкоуровневыми системами и железом 
-Пишу утилиты, системы, часто програмки в играх
+Разрабатываю системное и низкоуровневое ПО, пишу инструменты, эмуляторы и скрипты автоматизации. Основной фокус — архитектура вычислительных систем, работа с железом и оптимизация.
 
 ---
 
-## 💡 О себе
-- 🧩 Пишу на **C** (CLI-программы, парсеры, утилиты)  
-- 🧠 Использую **Lua** (особенно в ComputerCraft и остальные игры)  
-- 🐍 Осваиваю **Python** для анализа данных и скриптов, можно и микросервис настрелять 
-- 🧰 Интересуюсь системным программированием, симуляцией и созданием инструментов
-- 🛠️ Люблю также работать с железом, также создаю свои компоненты
+### 📌 Направления и стек
+* **Низкоуровневая разработка:** C, C++, Ассемблер — CLI-утилиты, парсеры данных, системное программирование и работа с логикой железа.
+* **Скриптинг и автоматизация:** Lua (включая песочницы вроде ComputerCraft), Python для быстрой обвязки инструментов, прототипирования и микросервисов.
+* **Схемотехника и симуляции:** Моделирование цифровой логики, аппаратных компонентов и встроенных решений (Logisim, MCU/Arduino).
+* **Сетевой стек и веб:** Настройка сетевых тоннелей (ZeroTier), бэкенд-сервисы на Flask/Django, оформление технической документации в LaTeX.
 
 ---
 
-## 🧪 Мои инструменты и технологии
+### 🛠️ Стек и инструменты
 
-### 💻 Языки программирования
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### Языки
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%231E1E1E.svg?style=flat-square&logo=assemblyscript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
-### 🧰 Среда и системы
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Wine](https://img.shields.io/badge/Wine-800000?style=for-the-badge&logo=wine&logoColor=white)
-![Whisky](https://img.shields.io/badge/Whisky-563D7C?style=for-the-badge&logo=apple&logoColor=white)
-![ZeroTier](https://img.shields.io/badge/ZeroTier-FF8800?style=for-the-badge&logo=zerotier&logoColor=white)
+#### Системы и инфраструктура
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![ZeroTier](https://img.shields.io/badge/ZeroTier-%23FF8800.svg?style=flat-square&logo=zerotier&logoColor=white)
 
-### 🌐 Веб, текст и фреймворки
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### ⚙️ Отстальное
-![Logisim](https://img.shields.io/badge/Logisim-0066CC?style=for-the-badge&logo=logic-gate&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+#### Бэкенд, разметка и софт
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 📫 Как со мной связаться
-- 🔗 **Pastebin:** [https://pastebin.com/u/LuaPacyk](https://pastebin.com/u/LuaPacyk)
-- ✉️ Email: vania.gnedash@gmail.com
+### 📫 Контакты
+* **Email:** [vania.gnedash@gmail.com](mailto:vania.gnedash@gmail.com)
+* **Pastebin:** [pastebin.com/u/LuaPacyk](https://pastebin.com/u/LuaPacyk)
